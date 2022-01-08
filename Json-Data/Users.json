@@ -1,0 +1,38 @@
+[
+  {
+    "FirstName": "Nabin",
+    "LastName": "Padhi",
+    "Company": "Free Lancer",
+    "Email": "nabin@gmail.com",
+    "Role": "Admin",
+    "Password": "i+GIdLpPOVEFGp+TpXaZNg==",
+    "ActivityAccess": "All",
+    "Status": "Active",
+    "PhoneNo": "",
+    "ProjectID": "PRO-0001"
+  },
+  {
+    "FirstName": "Sujay",
+    "LastName": "Mondal",
+    "Company": "In2In Global Technology",
+    "Email": "sujaymondal@gmail.com",
+    "Role": "Admin",
+    "Password": "gE+++Guwy/oZXAaFOLDdNg==",
+    "ActivityAccess": "All",
+    "Status": "Active",
+    "PhoneNo": null,
+    "ProjectID": "PRO-0002"
+  },
+  {
+    "FirstName": "Ganeshswar",
+    "LastName": "Sahoo",
+    "Company": "My Company 2",
+    "Email": "ganeswarsahoo@gmail.com",
+    "Role": "User",
+    "Password": "gE+++Guwy/oZXAaFOLDdNg==",
+    "ActivityAccess": "File Management",
+    "Status": "Active",
+    "PhoneNo": null,
+    "ProjectID": "PRO-0003"
+  }
+]
